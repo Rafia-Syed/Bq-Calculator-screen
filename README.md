@@ -15,5 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![mobileCalculator](https://github.com/Rafia-Syed/Bq-Calculator-screen/assets/126063520/0c51e0a9-488b-4d9e-b01e-73f13d200c39)
+![CalcScreen](https://github.com/Rafia-Syed/Bq-Calculator-screen/assets/126063520/e7068103-6fc8-47c0-9687-135bac13aac3)
+
 
